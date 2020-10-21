@@ -1,0 +1,15 @@
+.u-section-1 .u-sheet-1 {min-height: 837px}
+.u-section-1 .u-image-1 {width: 286px; height: 140px; margin: 204px auto 0}
+.u-section-1 .u-text-1 {font-size: 7.5rem; animation-duration: 7250ms; text-shadow: 10px 2px 11px rgba(0,0,0,0.6); margin: -4px 37px 0}
+.u-section-1 .u-social-icons-1 {height: 31px; min-height: 16px; width: 145px; min-width: 100px; white-space: nowrap; margin: 54px auto 60px}
+.u-section-1 .u-icon-1 {height: 100%}
+.u-section-1 .u-icon-2 {height: 100%}
+.u-section-1 .u-icon-3 {height: 100%} 
+
+@media (max-width: 1199px){ .u-section-1 .u-text-1 {margin-top: -16px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 779px} }
+
+@media (max-width: 575px){ .u-section-1 .u-image-1 {width: 207px; height: 82px; margin-top: 261px}
+.u-section-1 .u-text-1 {font-size: 3.75rem; margin-top: 0; margin-left: 0; margin-right: 0}
+.u-section-1 .u-social-icons-1 {width: 133px; margin-top: 20px} }
